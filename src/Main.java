@@ -12,7 +12,7 @@ public class Main {
         System.out.println((potatoes / eaters) + "potatoes");
         System.out.println((chicken / eaters) + "chicken thighs");
         System.out.println((spices / eaters) + "spoons of spices");
-        
+
 
 
     }
